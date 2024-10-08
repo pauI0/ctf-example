@@ -7,7 +7,7 @@ document
     const username = document.getElementById("username").value;
     const password = document.getElementById("password").value;
 
-    // Simulate database-stored credentials
+    // Do not publish! This is the test admin's username and password
     const storedUsername = "admin";
     const storedPassword = "password123";
 
